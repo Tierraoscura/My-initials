@@ -1,2 +1,2 @@
 # My-initials
-My initial's with super basic C++ coding
+My initial's using c++ code
